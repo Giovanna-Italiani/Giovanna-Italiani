@@ -1,4 +1,4 @@
-### Oiii! Eu sou Giovanna F. Italiani, desenvolvedora Front-End!
+### Hi!!! I`m Giovanna F. Italiani and I`m a Front-End Developer!
 <div align="center">
   <a href="https://github.com/Giovanna-Italiani">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Giovanna-Italiani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
