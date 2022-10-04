@@ -1,6 +1,6 @@
 ### Hi!!! My name is Giovanna F. Italiani and I`m a Front-End Developer!
 
-<div style="align: center">
+<div align="center">
   <a href="https://github.com/giovanna-italiani">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanna-italiani&show_icons=true&theme=midnight-purple"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanna-italiani&layout=compact&theme=midnight-purple" />
