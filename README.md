@@ -1,4 +1,4 @@
-### Hi!!! My name is Giovanna F. Italiani and I`m a Front-End Developer!
+### Hi!!! My name is Giovanna F. Italiani and I`m a Software Developer!
 
 <div align="center">
   <a href="https://github.com/giovanna-italiani">
